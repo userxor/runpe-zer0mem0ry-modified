@@ -1,4 +1,4 @@
-﻿//to use this program go to end of linethis code . open HxDen click edit,copy as c and replase it with unsigned char rawdata
+﻿//to use this program go to end of linethis code . open your pragram with HxDen click edit,copy as c and replase it with unsigned char rawdata
 #include "stdafx.h"
 #include <fstream>
 #include <conio.h>
